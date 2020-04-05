@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fmmazzola/Exercism/cpp/rna-transcription/rna_transcription.cpp
+rna_transcription.h
+/Users/fmmazzola/Exercism/cpp/rna-transcription/rna_transcription.h
+string
+-
+
+/Users/fmmazzola/Exercism/cpp/rna-transcription/rna_transcription.h
+string
+-
+
