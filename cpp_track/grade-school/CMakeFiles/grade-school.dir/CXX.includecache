@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fmmazzola/Exercism/cpp/grade-school/grade_school.cpp
+grade_school.h
+/Users/fmmazzola/Exercism/cpp/grade-school/grade_school.h
+string
+-
+stdexcept
+-
+map
+-
+vector
+-
+algorithm
+-
+
+/Users/fmmazzola/Exercism/cpp/grade-school/grade_school.h
+string
+-
+stdexcept
+-
+map
+-
+vector
+-
+algorithm
+-
+

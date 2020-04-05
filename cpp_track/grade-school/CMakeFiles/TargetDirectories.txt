@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/grade-school/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/grade-school/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/grade-school/CMakeFiles/test_grade-school.dir
+/Users/fmmazzola/Exercism/cpp/grade-school/CMakeFiles/grade-school.dir
