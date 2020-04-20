@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/say/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/say/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/say/CMakeFiles/test_say.dir
+/Users/fmmazzola/Exercism/cpp/say/CMakeFiles/say.dir

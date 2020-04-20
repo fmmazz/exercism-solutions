@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/collatz-conjecture/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/collatz-conjecture/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/collatz-conjecture/CMakeFiles/test_collatz-conjecture.dir
+/Users/fmmazzola/Exercism/cpp/collatz-conjecture/CMakeFiles/collatz-conjecture.dir

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/queen-attack.dir/queen_attack_test.cpp.o CMakeFiles/queen-attack.dir/queen_attack.cpp.o CMakeFiles/queen-attack.dir/test/tests-main.cpp.o  -o queen-attack 

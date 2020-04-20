@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/robot-name/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/robot-name/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/robot-name/CMakeFiles/test_robot-name.dir
+/Users/fmmazzola/Exercism/cpp/robot-name/CMakeFiles/robot-name.dir

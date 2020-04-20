@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/queen-attack/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/queen-attack/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/queen-attack/CMakeFiles/test_queen-attack.dir
+/Users/fmmazzola/Exercism/cpp/queen-attack/CMakeFiles/queen-attack.dir

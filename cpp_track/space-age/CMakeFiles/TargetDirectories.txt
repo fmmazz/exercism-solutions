@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/space-age/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/space-age/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/space-age/CMakeFiles/test_space-age.dir
+/Users/fmmazzola/Exercism/cpp/space-age/CMakeFiles/space-age.dir

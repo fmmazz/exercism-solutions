@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/sieve.dir/sieve_test.cpp.o CMakeFiles/sieve.dir/sieve.cpp.o CMakeFiles/sieve.dir/test/tests-main.cpp.o  -o sieve 

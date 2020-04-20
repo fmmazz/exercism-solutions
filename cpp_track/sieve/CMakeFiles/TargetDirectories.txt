@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/sieve/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/sieve/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/sieve/CMakeFiles/test_sieve.dir
+/Users/fmmazzola/Exercism/cpp/sieve/CMakeFiles/sieve.dir

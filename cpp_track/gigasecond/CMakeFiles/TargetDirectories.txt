@@ -1,0 +1,4 @@
+/Users/fmmazzola/Exercism/cpp/gigasecond/CMakeFiles/rebuild_cache.dir
+/Users/fmmazzola/Exercism/cpp/gigasecond/CMakeFiles/edit_cache.dir
+/Users/fmmazzola/Exercism/cpp/gigasecond/CMakeFiles/test_gigasecond.dir
+/Users/fmmazzola/Exercism/cpp/gigasecond/CMakeFiles/gigasecond.dir
